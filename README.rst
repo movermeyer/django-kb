@@ -2,15 +2,15 @@
 Django KB
 =============================
 
-.. image:: https://pypip.in/version/django-kb/badge.svg
+.. image:: https://img.shields.io/pypi/v/django-kb.svg
     :target: https://pypi.python.org/pypi/django-kb/
     :alt: Latest Version
 
-.. image:: https://pypip.in/py_versions/django-kb/badge.svg
+.. image:: https://img.shields.io/pypi/pyversions/django-kb.svg
     :target: https://pypi.python.org/pypi/django-kb/
     :alt: Supported Python versions
 
-.. image:: https://pypip.in/format/django-kb/badge.svg
+.. image:: https://img.shields.io/pypi/format/django-kb.svg
     :target: https://pypi.python.org/pypi/django-kb/
     :alt: Download format
 
